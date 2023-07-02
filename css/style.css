@@ -235,6 +235,15 @@ text-align: center;
    color: #fff;
     
 }
+/* Hide Content init */
+#tab-1-content, #tab-2-content, #tab-3-content{
+    display: none;
+}
+
+.show{
+    display:block !important;
+}
+
 /* TEXT STYLE */
 .text-md{
     font-size: 1.5rem;
